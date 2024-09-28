@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<opml version="1.0">
+  <head>
+    <title>My RSS Subscriptions</title>
+    <dateCreated>Sat, 28 Sep 2024 23:23:56 </dateCreated>
+  </head>
+  <body>
+    <outline text="jike" title="jike">
+      <outline text="每周必看" title="每周必看" type="rss" xmlUrl="https://rsshub.app/bilibili/weekly"/>
+    </outline>
+  </body>
+</opml>
